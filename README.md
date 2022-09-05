@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Svitlana's GitHub stats](https://github-readme-stats.vercel.app/api?username=svitlanaburlak&count_private=true&show_icons=true&theme=tokyonight)
 
-![Svitlana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svitlanaburlak&count_private=true&show_icons=true&theme=tokyonight&langs_count=9)
+![Svitlana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svitlanaburlak&count_private=true&show_icons=true&theme=tokyonight)
