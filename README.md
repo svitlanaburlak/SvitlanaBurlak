@@ -40,6 +40,9 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
+
+![MVC](https://img.shields.io/static/v1?style=for-the-badge&message=MVC&color=865F2&label=)
+![API](https://img.shields.io/static/v1?style=for-the-badge&message=API&color=8352CC&label=)
 ![Doctrine](https://img.shields.io/static/v1?style=for-the-badge&message=Doctrine&color=E95420&label=)
 ![Twig](https://img.shields.io/static/v1?style=for-the-badge&message=Twig&color=865F2&label=)
 ![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=PHPUnit&color=0052CC&label=)
@@ -53,9 +56,6 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 
 ![Agile](https://img.shields.io/static/v1?style=for-the-badge&message=Agile&color=5865F2&logo=Agile&logoColor=FFFFFF&label=)
 ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=0052CC&logo=Scrum&logoColor=FFFFFF&label=)
-
-![MVC](https://img.shields.io/static/v1?style=for-the-badge&message=MVC&color=865F2&label=)
-![API](https://img.shields.io/static/v1?style=for-the-badge&message=API&color=8352CC&label=)
 
 <br>
 
