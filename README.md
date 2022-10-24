@@ -45,7 +45,7 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=PHPUnit&color=0052CC&label=)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminern&color=6C48AF&logo=Adminer&logoColor=FFFFFF&label=)
+![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=6C48AF&logo=Adminer&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
