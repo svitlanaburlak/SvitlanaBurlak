@@ -30,20 +30,20 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
  
 ### Les langages et technos
 
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=8A0886&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![RWD](https://img.shields.io/static/v1?style=for-the-badge&message=RWD&color=1152C3&label=)
 
-![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=DF0101&logo=PHP&logoColor=FFFFFF&label=)
 ![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=0B0B61&logo=Symfony&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=8A2908&logo=Laravel&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
 ![MVC](https://img.shields.io/static/v1?style=for-the-badge&message=MVC&color=865F2&label=)
 ![API](https://img.shields.io/static/v1?style=for-the-badge&message=API&color=8352CC&label=)
-![Doctrine](https://img.shields.io/static/v1?style=for-the-badge&message=Doctrine&color=E95420&label=)
+![Doctrine](https://img.shields.io/static/v1?style=for-the-badge&message=Doctrine&color=B45F04&label=)
 ![Twig](https://img.shields.io/static/v1?style=for-the-badge&message=Twig&color=865F2&label=)
 ![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=PHPUnit&color=0052CC&label=)
 
@@ -72,7 +72,7 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
-![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
+![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=298A08&logo=Microsoft+Office&logoColor=FFFFFF&label=)
 
 <br>
 
