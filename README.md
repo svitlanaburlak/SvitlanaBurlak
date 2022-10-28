@@ -37,8 +37,8 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![RWD](https://img.shields.io/static/v1?style=for-the-badge&message=RWD&color=1152C3&label=)
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
-![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=000000&logo=Symfony&logoColor=FFFFFF&label=)
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
+![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=0B0B61&logo=Symfony&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=8A2908&logo=Laravel&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
 ![MVC](https://img.shields.io/static/v1?style=for-the-badge&message=MVC&color=865F2&label=)
