@@ -57,6 +57,8 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![Agile](https://img.shields.io/static/v1?style=for-the-badge&message=Agile&color=5865F2&logo=Agile&logoColor=FFFFFF&label=)
 ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=0052CC&logo=Scrum&logoColor=FFFFFF&label=)
 
+![Opquast](badge_EXPERT.png?raw=true "Opquast_badge")
+
 <br>
 
 ### Mes outils
@@ -81,9 +83,6 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-
-![Opquast](https://img.shields.io/static/v1?style=for-the-badge&message=Opquast&color=8352CC&label=)
-
 
 <br>
 
