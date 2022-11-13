@@ -57,7 +57,7 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![Agile](https://img.shields.io/static/v1?style=for-the-badge&message=Agile&color=5865F2&logo=Agile&logoColor=FFFFFF&label=)
 ![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=0052CC&logo=Scrum&logoColor=FFFFFF&label=)
 
-![Opquast](badge_EXPERT.png?raw=true "Opquast_badge")
+[<img src="./badge_EXPERT.png">](https://www.opquast.com/certification/)
 
 <br>
 
