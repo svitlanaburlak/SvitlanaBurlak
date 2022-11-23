@@ -39,6 +39,7 @@ Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge
 ![RWD](https://img.shields.io/static/v1?style=for-the-badge&message=RWD&color=1152C3&label=)
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=DF0101&logo=PHP&logoColor=FFFFFF&label=)
+![Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=cdb79e&logo=Composer&logoColor=281010&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=8A2908&logo=Laravel&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
