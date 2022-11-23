@@ -30,6 +30,8 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
  
 ### Les langages et technos
 
+Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=0B0B61&logo=Symfony&logoColor=FFFFFF&label=)
+
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=8A0886&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,7 +39,6 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![RWD](https://img.shields.io/static/v1?style=for-the-badge&message=RWD&color=1152C3&label=)
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=DF0101&logo=PHP&logoColor=FFFFFF&label=)
-![Symfony](https://img.shields.io/static/v1?style=for-the-badge&message=Symfony&color=0B0B61&logo=Symfony&logoColor=FFFFFF&label=)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=8A2908&logo=Laravel&logoColor=FFFFFF&label=)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 
@@ -50,6 +51,13 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=6C48AF&logo=Adminer&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
+
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+
+![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=3390F9&logo=Webpack&logoColor=FFFFFF&label=)
+![Websocket](https://img.shields.io/static/v1?style=for-the-badge&message=Websocket&color=74EE2A&logo=Websocket&logoColor=FFFFFF&label=)
+![Jest](https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=FF5733&logo=Jest&logoColor=FFFFFF&label=)
 
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=500412&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
@@ -72,7 +80,8 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 
 ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Kanban](https://img.shields.io/static/v1?style=for-the-badge&message=Kanban&color=0052CC&logo=Kanban&logoColor=FFFFFF&label=)
+
 ![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)
 ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=298A08&logo=Microsoft+Office&logoColor=FFFFFF&label=)
 
@@ -80,8 +89,7 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 
 ### Et bientôt...
 
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=D2D6DB&logo=Docker&logoColor=2A81EE&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 
 <br>
