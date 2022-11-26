@@ -91,7 +91,7 @@ Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge
 ### Et bientôt...
 
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=D2D6DB&logo=Docker&logoColor=2A81EE&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=F6F69F&logo=PostgreSQL&logoColor=2368F1&label=)
 
 <br>
 
