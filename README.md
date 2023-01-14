@@ -88,8 +88,13 @@ Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge
 
 <br>
 
-### Et bientôt...
+### En train d'apprendre...
 
+![DDD](https://img.shields.io/static/v1?style=for-the-badge&message=DDD&color=2f32bd&logoColor=2A81EE&label=)
+![TDD](https://img.shields.io/static/v1?style=for-the-badge&message=TDD&color=c52b60&logoColor=2A81EE&label=)
+![CQRS](https://img.shields.io/static/v1?style=for-the-badge&message=CQRS&color=93c47d&logoColor=2A81EE&label=)
+![Event Sourcing](https://img.shields.io/static/v1?style=for-the-badge&message=Event+Sourcing&color=c79f23&logoColor=2A81EE&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=bdc6db&logo=GraphQL&logoColor=e535ab&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=D2D6DB&logo=Docker&logoColor=2A81EE&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=F6F69F&logo=PostgreSQL&logoColor=2368F1&label=)
 
