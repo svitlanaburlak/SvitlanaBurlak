@@ -68,12 +68,24 @@ Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge
 
 [<img src="./badge_EXPERT.png">](https://www.opquast.com/certification/)
 
+Notions de base:
+
+![DDD](https://img.shields.io/static/v1?style=for-the-badge&message=DDD&color=2f32bd&logoColor=2A81EE&label=)
+![TDD](https://img.shields.io/static/v1?style=for-the-badge&message=TDD&color=c52b60&logoColor=2A81EE&label=)
+![CQRS](https://img.shields.io/static/v1?style=for-the-badge&message=CQRS&color=93c47d&logoColor=2A81EE&label=)
+![Event Sourcing](https://img.shields.io/static/v1?style=for-the-badge&message=Event+Sourcing&color=c79f23&logoColor=2A81EE&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=bdc6db&logo=GraphQL&logoColor=e535ab&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=D2D6DB&logo=Docker&logoColor=2A81EE&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=F6F69F&logo=PostgreSQL&logoColor=2368F1&label=)
+
 <br>
 
 ### Mes outils
 
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![PHPStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PHPStorm&color=500412&logo=PHPStorm&logoColor=FFFFFF&label=)
+![GitKraken](https://img.shields.io/static/v1?style=for-the-badge&message=GitKraken&color=8A2908&logo=GitKraken&logoColor=FFFFFF&label=)
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
