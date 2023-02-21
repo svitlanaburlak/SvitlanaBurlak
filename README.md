@@ -11,6 +11,8 @@
 
 Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/Q3WiRGLeXSQ?t=426)
 
+[Rejoignez notre Tribu](https://tribu.surge.sh/)
+
 [Lien vers le repo du Back](https://github.com/svitlanaburlak/Projet_fin_formation)
 
 [Lien vers le repo du Front](https://github.com/LaurentArcos/Tribu-Front)
