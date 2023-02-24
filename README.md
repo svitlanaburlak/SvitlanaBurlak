@@ -5,6 +5,8 @@
 ## Je parle
 # :ukraine: :ru: :gb: :fr: 
 
+[Mon CV en ligne](https://svitlanaburlak.github.io/)
+
 <br>
 
 ## 🌎 TRIBU - Projet de fin de formation
