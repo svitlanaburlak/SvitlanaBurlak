@@ -15,9 +15,15 @@ Présentation sur [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg
 
 [Rejoignez notre Tribu](https://tribu.surge.sh/) <img src="./favicon1.ico" width="25">
 
+
 [Lien vers le repo du Back](https://github.com/svitlanaburlak/Projet_fin_formation)
 
+Stack: PHP, Symfony 6.2(MVC), Doctrine, MySQL, Lexik JWT, NelmioCorsBundle, Twig, PHPUnit</p>
+
+
 [Lien vers le repo du Front](https://github.com/LaurentArcos/Tribu-Front)
+
+Stack: JS, React, Redux, Axios, SASS/SCSS, React Hook Form, Yup
 
 <br>
 
