@@ -60,6 +60,7 @@ Spécialisation: ![Symfony](https://img.shields.io/static/v1?style=for-the-badge
 ![PHPUnit](https://img.shields.io/static/v1?style=for-the-badge&message=PHPUnit&color=0052CC&label=)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=F6F69F&logo=PostgreSQL&logoColor=2368F1&label=)
 ![Adminer](https://img.shields.io/static/v1?style=for-the-badge&message=Adminer&color=6C48AF&logo=Adminer&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 
@@ -86,7 +87,6 @@ Notions de base:
 ![Event Sourcing](https://img.shields.io/static/v1?style=for-the-badge&message=Event+Sourcing&color=c79f23&logoColor=2A81EE&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=bdc6db&logo=GraphQL&logoColor=e535ab&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=D2D6DB&logo=Docker&logoColor=2A81EE&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=F6F69F&logo=PostgreSQL&logoColor=2368F1&label=)
 
 <br>
 
