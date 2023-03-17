@@ -3,7 +3,7 @@
 **svitlanaburlak/SvitlanaBurlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Je parle
-# :ukraine: :ru: :gb: :fr: 
+# :ukraine: :gb: :fr: 
 
 [Mon CV en ligne](https://svitlanaburlak.github.io/)
 
